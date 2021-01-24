@@ -9,6 +9,6 @@
 ## AddOnVersion: 1060
 ## APIVersion: 100033 100034
 ## Author: Tom Cumbow
-## Description: AutoSafety
+## Description: Prevents attacking innocents unless you are already in combat
 
 AutoSafety.lua
